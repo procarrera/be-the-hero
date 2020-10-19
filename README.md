@@ -45,20 +45,16 @@ A platform where ONG's can post their issues and connect to people who can searc
 <div id="demo">
         
 ## { Demo }
-LINK: <a id="link" href="https://share-me.now.sh"> https://share-me.now.sh </a>
 <img align="center" alt="Next Level Week" src="https://github.com/procarrera/files/blob/master/screen-hero.png" width="1000px"/>
 </div>
 
 <div id="features">
         
 ## { Features }
-- [x] User Sing up
-- [x] MongoDB database
+- [x] Create ONG's
+- [x] Pin at the MAP
 - [x] Search field
-- [x] Sort by top results using Mongo Indexes
-- [x] NewsAPI integrated
-- [x] GitHub API integrated
-
+- [x] Map visualization
 </div>
 
 <div id="contact">
