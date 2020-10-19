@@ -23,7 +23,6 @@
 ## { About }
 A platform where ONG's can post their issues and connect to people who can search and engage in the causes.
 </br>
-<a id="link" href="https://share-me.now.sh"> https://share-me.now.sh </a>
 
 </div>
 
@@ -35,7 +34,7 @@ A platform where ONG's can post their issues and connect to people who can searc
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/RESPONSIVE-YES-brightgreen"/>
 <br/>
 <img src="https://img.shields.io/badge/REST%20API-YES-brightgreen"/>
